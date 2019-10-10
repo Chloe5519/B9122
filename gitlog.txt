@@ -1,0 +1,35 @@
+commit ea8d1a07d2f694d7a0b99a65c58fa3c2f55144ba
+Author: 孙嘉澍 <sunjs@sunjiashudeMacBook-Pro.local>
+Date:   Thu Oct 10 17:05:10 2019 -0400
+
+    I made some changes to the README.md
+
+commit 91ff78ce1a5b5e8c7fba602bf177d881e162e738
+Author: 孙嘉澍 <sunjs@sunjiashudeMacBook-Pro.local>
+Date:   Thu Oct 10 16:55:12 2019 -0400
+
+    make some changes to README.md
+
+commit 9be8198560d74f463a5272b18955166078ebce3a
+Author: 孙嘉澍 <sunjs@sunjiashudeMacBook-Pro.local>
+Date:   Thu Oct 10 16:51:50 2019 -0400
+
+    add webcrawler.py file
+
+commit aea13058d3f206a125370b2c9e0d51a2f4b95d6d
+Author: 孙嘉澍 <sunjs@sunjiashudeMacBook-Pro.local>
+Date:   Thu Oct 10 16:41:19 2019 -0400
+
+    Author:Jiashu Content:Homework1
+
+commit 3f5ad5c707eacaf4a2a0297b141b446c306ed956
+Author: 孙嘉澍 <sunjs@sunjiashudeMacBook-Pro.local>
+Date:   Thu Oct 10 16:31:55 2019 -0400
+
+    This is Homework1
+
+commit 7a01f4b905646840cc6840b1b043aeea54f5719d
+Author: Jiashu <54906645+Chloe5519@users.noreply.github.com>
+Date:   Thu Oct 10 11:10:55 2019 -0400
+
+    Initial commit
